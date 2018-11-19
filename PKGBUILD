@@ -18,7 +18,7 @@ source=("${pkgname}.desktop" "joplin-desktop.sh" "joplin.sh"
 sha256sums=("c9143c3f571dbefa0da6ccbfacc5b0088891dcd148ab3ab51decec9dc10ac0ee"
             "41bfdc95a6ee285eb644d05eb3bded72a83950d4720c3c8058ddd3c605cd625d"
             "5245da6f5f647d49fbe044b747994c9f5a8e98b3c2cd02757dd189426a677276"
-            "766d493ac3253e4881878e0db90bda0cfd51f21701430eb1d4d90e88c7a5f1bc")
+            "0c1a9abe4c20540d14740c0a1b066db4982a0219f0ec2d722e14170f1744682f")
 
 build() {
 
